@@ -1,0 +1,5 @@
+*.SchDoc linguist-detectable
+*.PcbDoc linguist-detectable
+*.PrjPcb linguist-detectable
+*.SchLib linguist-detectable
+*.PcbLib linguist-detectable
